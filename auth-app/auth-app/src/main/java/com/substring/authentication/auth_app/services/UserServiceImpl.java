@@ -12,7 +12,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.stereotype.Service;
 import org.modelmapper.ModelMapper;
-
 import java.time.Instant;
 import java.util.UUID;
 
